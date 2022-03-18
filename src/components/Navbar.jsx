@@ -101,7 +101,8 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://www.linkedin.com/in/kaushik-baidya-696247157/"
-              target="blank"
+              target="_blank"
+              rel="noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -110,7 +111,8 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://github.com/KaushikBaidya"
-              target="blank"
+              target="_blank"
+              rel="noreferrer"
             >
               Github <FaGithub size={30} />
             </a>
@@ -119,6 +121,8 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://www.facebook.com/kaushik.baidya.161"
+              target="_blank"
+              rel="noreferrer"
             >
               FaceBook <FaFacebook size={30} />
             </a>
