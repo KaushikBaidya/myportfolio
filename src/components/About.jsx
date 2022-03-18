@@ -18,7 +18,7 @@ const About = () => {
               Hi. I'm Kaushik, nice to meet you. Please take a look around.
             </p>
             <div>
-              <p className="sm:text-left text-3xl font-semi-bold">
+              <p className="sm:text-left text-2xl font-semi-bold">
                 I am passionate about building excellent software that improves
                 the lives of those around me. I specialize in creating software
                 for clients ranging from individuals and small-businesses all
